@@ -1,5 +1,4 @@
 /client/node_modules
-/client/.next
 /client/jsconfig.json
 /client/next.config.mjs
 /client/package-lock.json
