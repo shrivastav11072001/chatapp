@@ -1,9 +1,11 @@
 {
   "name": "server",
   "version": "1.0.0",
+  "description":"chatapp",
+  "private":"true",
   "main": "server.js",
   "scripts": {
-    "server": "node server/server.js"
+    "server": "node server.js"
   },
   "keywords": [],
   "author": "",
